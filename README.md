@@ -44,6 +44,8 @@ Latent behaviour patterns like combined loyalty and purchasing frequency.
 
  **Class Imbalance:**
 
+ Class imbalance happens when the number of instances in one class one higher than another class.
+
  1. Oversampling
     
  2. Undersampling
