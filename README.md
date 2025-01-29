@@ -33,3 +33,20 @@ Latent behaviour patterns like combined loyalty and purchasing frequency.
  Will_Purchase: Binary (1 = Yes, 0 = No).
 
  Annual_Spending: Continuous value indicating yearly spending in dollars.
+
+**Univariate Analysis:**
+
+ Checking distributions, skewness, patterns, counts in features.
+
+**Bivariate Analysis:**
+
+ Uncovering relationships, patterns, dependancies among two or more features.
+
+ **Class Imbalance:**
+
+ 1. Oversampling
+    
+ 2. Undersampling
+
+
+
